@@ -24,6 +24,7 @@
 	display: flex;
 	justify-content: center;
 	align-items: center;
+	flex-direction: column;
 
 }
 .h1 {font-size: 30px;
@@ -53,9 +54,18 @@ margin-bottom: 37px;}
 display: flex;}
 
 .line-1 {display: flex;
- flex-wrap: nowrap;}
+ justify-content: space-between;
+}
 
 .line-2 {display: flex;
+	justify-content: space-between;
  }
 
-.block{}
+.block{
+	width: 280px;
+	height: 295px;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	flex-direction: column;
+}
