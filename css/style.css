@@ -57,7 +57,7 @@ margin-bottom: 37px;}
 }
 
 .right-block {width: 880px;
-	
+
 }
 
 .line-1 {display: flex;
@@ -66,6 +66,7 @@ margin-bottom: 37px;}
 
 .line-2 {display: flex;
 	justify-content: space-between;
+	margin-top: 40px;
  }
 
 .block{
@@ -76,3 +77,5 @@ margin-bottom: 37px;}
 	
 	flex-direction: column;
 }
+.block-title {margin-top: 20px;
+margin-bottom: 20px;}
