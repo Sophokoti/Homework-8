@@ -48,9 +48,16 @@ margin-bottom: 37px;}
 
 }
 .left-block {width: 250px;
+		width: 280px;
+	height: 295px;
+	display: flex;
+	justify-content: center;
+	
+	flex-direction: column;
 }
 
 .right-block {width: 880px;
+	
 }
 
 .line-1 {display: flex;
@@ -66,6 +73,6 @@ margin-bottom: 37px;}
 	height: 295px;
 	display: flex;
 	justify-content: center;
-	align-items: center;
+	
 	flex-direction: column;
 }
